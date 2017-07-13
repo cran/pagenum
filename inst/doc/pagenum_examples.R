@@ -31,3 +31,6 @@ ggplot(iris, aes(x=Sepal.Width, y=Sepal.Length,
 pagenum(text="ABC Corp - ", date=TRUE,
         x=.95, y=.95, just=c('right','top'))
 
+## ----session-------------------------------------------------------------
+sessionInfo()
+
